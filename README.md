@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./header-image.png)
 <h1 align="center">Hi 👋, I'm Anh</h1>
 <h3 align="center">A data student, a learner, and a coffee addict 📚🚴🏻‍♀️☕️</h3>
 <img align="right" alt="Study" width=400 src="https://animesher.com/orig/1/155/1553/15532/animesher.com_gif-inspiration-study-1553226.gif">
