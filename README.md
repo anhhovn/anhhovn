@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **how to ask the “right” questions in data analysis**
 
-- 👯 I’m looking to collaborate on **cool data visualization**
+- 👯 I’m looking to collaborate on **cool data visualization projects!**
 
 - 💬 Ask me about **my current process**
 
