@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **building a data preprocessing pipeline for one of my deep learning projects**
 
-- 🌱 I’m currently learning **how to ask the “right” questions in data analysis**
+- 🌱 I’m currently learning **how to ask the “right” questions while making data-driven decision**
 
 - 👯 I’m looking to collaborate on **cool data visualization projects!**
 
